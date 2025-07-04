@@ -9,5 +9,7 @@ CSV files and Excel files
 SQL Server: 
 1. Data extraction from data source
 2. Data Transformation by imputation of the right data types for analysis 
-3. Query and Analysis 
+3. Query and Analysis
+## Analysis
+
 
